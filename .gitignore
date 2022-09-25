@@ -1,3 +1,18 @@
+# SPDX-FileCopyrightText: 2022 Pen-Yuan Hsing
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# asdf files
+.tool-versions
+
+# direnv files and environments
+.envrc
+.direnv/
+
+#
+# GitHub generated list below
+#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
