@@ -76,8 +76,75 @@ Present: Pen and Jackie
 
 **Action items:**
 
-* Pen will share 2022-09-23 meeting notes
-* Pen will ask everyone to reach out to their contacts
-* Pen will complete the Research Ethics Application by 2022-09-26 and aim to submit mid-week
-* Pen will find, add, and contact the person who conducted a very similar interview for OSF about 1.5 years ago to learn from them
-* Pen will set up regular meetings with Jackie
+* DONE: Pen will share 2022-09-23 meeting notes
+* DONE: Pen will ask everyone to reach out to their contacts
+* DONE: Pen will complete the Research Ethics Application by 2022-09-26 and aim to submit mid-week
+* DONE: Pen will find, add, and contact the person who conducted a very similar interview for OSF about 1.5 years ago to learn from them
+* DONE: Pen will set up regular meetings with Jackie
+
+## 2022-09-28
+
+Present: Jackie, Lilli, Pen
+
+* Let's work out a schedule for what Lilli could help with, how many hours, and when
+* Interview guide revision
+  * Lilli: though the current draft is not bad, but looks very long. What are the most important questions?
+  * Some interview tips: 
+    * Jackie: Take a few seconds think it through and ask the question in the most open way possible. E.g. "would you say your role in science is very constrained with division of labour" vs "tell me what it's like for division of labour in your team"? Or "did you take the bus" -> "how did you commute this morning"? So you don't bias people towards anything or any response.
+    * Lilli: Recognise the flexibility in how it's done, and lots of it is down to establishing a rapport with the interviewee. Don't forget to actually listen after asking a question!
+
+Jackie walked us through the current interview guide: 
+
+* We want to elucidate research culture as it relates to publishing, focusing on the idea of roles/division of labour in academia which is one of the 5 main aims of Ocotpus to affect.
+  * Though we could remain mindful of the other aims e.g. questionable research practices, if/when it comes up in an interview or maybe add to interview guide. But we think the most lacking is how they fit into the larger picture and how current system interacts.
+* Start by giving people an idea of what we're asking them about. It's easy for people to go off in random/wrong directions. So should explain via the initial questions in the **"Introduce" section**, including how publication formats interact with aspects of the research process.
+  * Need to keep this short e.g. a couple minutes because people easily go deep into what they do.
+  * Some interviewees might focus on specific aspects like only data, so some prodding could be needed.
+  * Note: We might not necessarily ask every question in the guide.
+  * Jackie: Probably read through the guide, then practice several times, before being able to hold the interview structure in your mind! Expect people to bring up: this is how a project works in my field, but varying degrees of how much they have thought about how well does it work or just anything about that process. So might need to ask them to think about what works well and not. And even those who comes with a list of things, they might still consider things they haven't thought of.
+* For section 2
+  * Need to get at whether it'll be useful to change how things are structured and published
+  * So need to ask about division of labour, what are valued, what are shared
+  * For questions on what's valued and shared, the might affect the later section on research assessment
+* Section 4 research assessment
+  * Note: People will often stay focused on what just came before and answer based on that, so might need to more clearly delineate sections.
+* Section 5
+  * Motivated by informal conversations Alex had
+  * Got impression that people have been saying they would like to be a specialist when they also feel they need to be a generalist to succeed in academia
+  * Want to get at how specialise/generalised people they are, and elicite viewpoints around that they're being forced into a generalist role.
+  * This feels like a challenging section where we do not want to bias people in their responses. Though it might come up in section 2 regarding roles/labour division, so the discussion could come from there.
+  * That said, this section is a bit of a bonus, though potentially important.
+  * The idea is that Octopus could possibly help specialists where their work could be recognised 
+  * For 5.d. people tell Alex that they feel what they need to do for career progression (e.g. expected to write generalist papers e.g. a Nature paper with a convincing narrative and since they're so specialised they are always a middle author) do not match their strengths (e.g. maybe a specialism like numerical modelling)
+    * Lilli: Sounds like it also has lots to do with what people perceive as success factors the system expects vs what they'd like for themselves
+
+Additional discussion about the interview guide: 
+
+* Lilli: Might it be helpful to explain a bit what the Octopus model is? Should we introduce a bit what it's about?
+  * Jackie: Could be good question to discuss with Alex, i.e. whether we might jump the gun a bit since there's a second round of Octopus evaluations in 2023. -> This has been added as a comment "Lilli/Pen mentioned...".
+    * Pen: Let's discuss this on 2022-10-19
+* Also could discuss priorities of the interview questions with Alex
+* Survey design by converting it from interview questions
+  * Jackie: Broad steps can be use some of the data we get from interviews to inform survey design, so ideally let's get a handful of interviews in first. E.g. is everyone answering the same/different way, do people focus on certain things? Do people give wildly different answers because of their field on what is valued?
+* The way we're identifying recruitment pool is ad-hoc, how do we report on this in the methodology? How is it usually done? Do you just state it or does it need to also follow a protocol?
+  * Jackie: Yeah it's a convenience sample of who we have access to, and snowball sampling where we ask people to suggest others as long as we're clear about it.
+
+We also quickly reviewed ethics application
+
+* Change end date add another year to end of 2024
+* For recruitment
+  * Say something about snowball sampling or upon recommendation from participants or other contacts, we might reach out to more potential interviewees. We will organically grow our network of possible interviewees through discussions with participants.
+* In advert, remove "arts/humanities"
+* Remove bullet point on postgraduate research/degree in participant information sheet
+
+Action items: 
+
+* Lilli will carefully examine the interview guide this coming week
+* Jackie will invite Pen to meetings with Mariia for work on the literature review
+* Pen will make the minor tweaks to the Research Ethics Application and submit
+* Pen will set up future regular meetings with Jackie
+* Pen will organise and let Jackie/Lilli know time for practice interviews, could be fine to even start formal interviews asap as soon as ethics go through even before the meeting on 2022-10-19
+* Pen will propose list of interviewees by Friday
+* Pen will ask about if and how much we introduce the Ocotpus platform in the first round of interviews/surveys in the meeting on 2022-10-19
+* Pen will add Annette Johansen (as recommended by Vibeke) to contact list
+* Pen will contact Johanna Cohoon about qualitative interview by [OSF](https://osf.io/)
