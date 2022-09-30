@@ -148,3 +148,46 @@ Action items:
 * Pen will ask about if and how much we introduce the Ocotpus platform in the first round of interviews/surveys in the meeting on 2022-10-19
 * Pen will add Annette Johansen (as recommended by Vibeke) to contact list
 * Pen will contact Johanna Cohoon about qualitative interview by [OSF](https://osf.io/)
+
+## regular meeting 2022-09-30
+
+T13:00+01:00
+
+Present: Jackie, Pen
+
+* Ethics received "provisional favourable opinion" and "you can begin your data collection".
+* Got three sets of qualitative methods
+  * Sonika from Open!Next
+  * Lilli's work
+  * Johanna Cohoon from OSF
+  * Possibly Elizabeth
+* Meeting notes tracking
+  * Pen will add link to HedgeDoc Markdown document to meetings
+  * Before meetings, have an overview/agenda of the meeting
+  * Structure meetings
+* Want to poll Jackie/Lilli for their availability so I can bring this when scheduling practice interview
+  * Can I use Jackie's viewable calendar for this?
+  * Unclear if Lilli has this.
+  * Practice interviews: 
+    * Some people from TARG are willing
+  * Want better representation from academia
+    * Pen: AGU, ecology, citizen science people, computer science people
+    * Jackie: Reaching out to individual people is a more controlled way to not over sample
+    * Jackie: Suggest some people from medical sciences, social sciencess
+    * Need to think better about the demographics we want to cover: geographical?
+* Meeting with Mariia
+  * Pen can try to hand over the Zotero library to Mariia
+  * Aware of what we are doing, and Octopus overall, ask Mariia to listen in on some of our meetings, and maybe meetings w/ Alex and John
+  * Could ask her to introduce herself a bit, we know she did a degree in social policy/sociology
+* Might be able to talk to qualitative people on Slack
+* Lab meetings, when and what? -> discuss later
+
+ACTION ITEMS: 
+
+* Jackie and Pen will both contact a couple people likely willing to do practice interviews.
+* Pen will continue to reach out to individual people for the real interviews
+* Pen will write a draft email with one paragraph as a template for us to contact people with. Explain what we are looking for, a little bit about us doing this on behalf of Octopus, understand experiences of researchers across variety of disciplines across various research cultures especially with respect to publishing. Want to get as wide a set of views as possible. Daily experiences. can you put us in touch with a couple people you know who might be willing to do this over Zoom? They don't need to be experts in anything other than their own in publishing research.
+* Pen will complete setting up notes management
+  * Realtime collaborative editing, plus
+  * Archive of old notes
+* Pen will ask at lab meeting today
