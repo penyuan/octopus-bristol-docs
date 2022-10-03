@@ -155,19 +155,19 @@ T13:00+01:00
 
 Present: Jackie, Pen
 
-* Ethics received "provisional favourable opinion" and "you can begin your data collection".
-* Got three sets of qualitative methods
-  * Sonika from Open!Next
+* Ethics received "provisional favourable opinion" and "you can begin your data collection". Good!
+* Pen received three sets of qualitative methods
+  * Sonika G. from Open!Next
   * Lilli's work
-  * Johanna Cohoon from OSF
-  * Possibly Elizabeth
+  * Johanna/Hannah Cohoon from OSF
+  * This should be more than enough to study given the short timeframe
 * Meeting notes tracking
-  * Pen will add link to HedgeDoc Markdown document to meetings
-  * Before meetings, have an overview/agenda of the meeting
-  * Structure meetings
+  * Pen will add link to HedgeDoc Markdown pad to meetings which provides realtime collaboration
+  * Before meetings, have an overview/agenda of the meeting  in the pad
+  * We talked about providing some structure to our meetings mediated by meetings notes with an agenda before the meeting
 * Want to poll Jackie/Lilli for their availability so I can bring this when scheduling practice interview
-  * Can I use Jackie's viewable calendar for this?
-  * Unclear if Lilli has this.
+  * Can Pen use Jackie's viewable calendar for this? -> Yes
+  * Confirm with Lilli if their calendar is up-to-date -> Yes, confirmed
   * Practice interviews: 
     * Some people from TARG are willing
   * Want better representation from academia
@@ -185,9 +185,22 @@ Present: Jackie, Pen
 ACTION ITEMS: 
 
 * Jackie and Pen will both contact a couple people likely willing to do practice interviews.
+  * Robbit and Thea from TARG have put themselves forward
+  * Hannah from OSF is also willing to participate
 * Pen will continue to reach out to individual people for the real interviews
 * Pen will write a draft email with one paragraph as a template for us to contact people with. Explain what we are looking for, a little bit about us doing this on behalf of Octopus, understand experiences of researchers across variety of disciplines across various research cultures especially with respect to publishing. Want to get as wide a set of views as possible. Daily experiences. can you put us in touch with a couple people you know who might be willing to do this over Zoom? They don't need to be experts in anything other than their own in publishing research.
 * Pen will complete setting up notes management
   * Realtime collaborative editing, plus
   * Archive of old notes
-* Pen will ask at lab meeting today
+* Pen will ask at lab meeting today for people willing to help with practice interviews
+* Pen will handover the Octopus Zotero group admin to Mariia
+  
+Future issues: 
+
+* Planning presentations at TARG lab meetings
+
+## regular meeting 2022-10-07
+
+Updates: 
+
+* Pen created a dedicated Zotero account for our Octopus shared library, but with Pen's email for now. The account is `octopus-bristol` and is now the owner of the group.
