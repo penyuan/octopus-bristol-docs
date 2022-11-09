@@ -1,4 +1,4 @@
-# Meeting notes
+# Regular meetings 2022-09
 
 ## 2022-09-21
 
@@ -198,9 +198,3 @@ ACTION ITEMS:
 Future issues: 
 
 * Planning presentations at TARG lab meetings
-
-## regular meeting 2022-10-07
-
-Updates: 
-
-* Pen created a dedicated Zotero account for our Octopus shared library, but with Pen's email for now. The account is `octopus-bristol` and is now the owner of the group.
