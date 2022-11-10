@@ -1,6 +1,12 @@
 # Notes on interviews
 
+
+
 ## Transcriptions
+
+When cleaning up the transcripts, I plan to clean up words like "um", "ah", etc.
+
+### Auto transcriptions
 
 Zoom's auto-transcription produces closed caption `.vtt` files with timestamps in the form of: 
 
