@@ -40,7 +40,7 @@ Time: 2022-09-23T15:30+01:00
 Present: Pen and Jackie
 
 * Jackie lent Pen their qualitative research handbook from Oxford
-* Today's meeting focused on Pen's [draft work timeline](./timeline.md) for Octopus baseline and project evaluations through October 2023
+* Today's meeting focused on Pen's [draft work timeline](../timeline.md) for Octopus baseline and project evaluations through October 2023
 * For the **next couple weeks**, Pen's plan is to focus on
   * The Research Ethics Application
   * Time-limited literature review
