@@ -1,4 +1,4 @@
-# Regular meetings 2022-11
+# Meetings 2022-11
 
 ## Regular meeting 2022-11-04
 
