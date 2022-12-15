@@ -1,6 +1,6 @@
 # Notes on interviews
 
-## notes on interviews so far 2022-11-16
+## notes on interviews so far 2022-12-15
 
 Some takeaways from the five real interviews so far plus three practice interviews: 
 
@@ -22,9 +22,18 @@ Some takeaways from the five real interviews so far plus three practice intervie
   * E.g. the case where someone ended up only in the acknowledgements.
 * Division of labour is hard to discern, and descriptions are fairly high level
   * Interviewees so far work on projects where there simply isn't that much division, other than in big pharma where they are statisitcal/data science specialists, but even then there isn't detailed descriptions outside of that
+  * Or, sometimes hints about division of labour come up when being asked about other things like credit, critique, or assessment
+* Overwhelming consensus and consistency on the value of early feedback, especially expert critique on methodology
+  * But of course the people who are interviewed might be biased towards this, need to acknowledge self-selection in report
+* Everyone's "happy" with open research and want to do good science (i.e. consensus on early feedback), but no one's willing to be first mover, especially when there are other competing demands directly affecting career "success"
+  * Reluctance to share/credit/critique is usually out of fear: 
+    * Showing something raw or immature
+    * Being scooped
+    * Unequal power
 
-Minor tweaks to interview: 
+Minor tweaks to interview on 2022-11-08: 
 
+* See regular meeting notes for 2022-11-08
 * Implemented
   * Part 1 - prompt research project components could be hypothesis, method, data, etc.
   * Part 2 - people still heavily focused on papers, need prompting to think beyond that
