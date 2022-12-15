@@ -29,14 +29,13 @@ Present: Jackie (JT), Pen (PY)
 * Will have at least 14 interviews
   * We've ticked basically all boxed for what kinds of researchers we want to interview
   * The only one left are people with "atypical" research outputs?
-    * Let's ask about this with 
+    * Let's ask about this with Alex
     * JT could informally talk to an archaeologist today about this
     * Could also talk to a library person or someone from GLAM who does digital humanities
-* Transcriptions much faster now
 * Additional observations so far
   * Division of labour questions are hard to answer in detail, until starting to ask about credit/critique/assessment
   * Overwhelming consensus on the usefulness of early feedback, especially expert critique of methodology
-    * But of course the people who are interviewed might 
+    * But of course the people who are interviewed might be biased towards this, need to acknowledge self-selection in report
   * Everyone's "happy" with open research and want to do good science (i.e. consensus on early feedback), but no one's willing to be first mover, especially when there are other competing demands directly affecting career "success"
   * Reluctance to share/credit/critique is usually out of fear: 
     * Showing something raw or immature
@@ -44,6 +43,7 @@ Present: Jackie (JT), Pen (PY)
     * Unequal power
 * For the report
   * Beware of an issue with thematic analysis, it's less about quantifying x people said y
+  * Acknowledge that there is still some possible self-selection going on
 
 #### Survey planning
 
