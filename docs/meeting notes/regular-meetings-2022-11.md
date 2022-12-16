@@ -89,3 +89,52 @@ Present: Jackie (JT), Pen (HPY)
 * HPY will at least look at Lilli's proposed survey questions to understand how they could be designed, and further reflect on the draft survey
 * HPY will circulate transcript with the interviewee who requested to review it
 * HPY will ask TARG Slack group about tips for managing coding and annotations for interviews
+
+## Regular meeting 2022-11-18
+
+Time: 2022-11-18T15:30Z
+
+Present: Jackie (JT), Pen (PY)
+
+### AGENDA
+
+* General updates
+* Follow up meeting w/ Alex
+* Plan for rest of year
+
+#### General updates
+
+* PY met with Chris as scheduled.
+* Longer term research ideas, could be discussed with Marcus 2022-12-07.
+
+#### Follow up meeting w/ Alex
+
+* We discussed what to bring to the meeting next month, including being ready to finish designing the survey during that meeting.
+
+#### Plan for rest of year
+
+* Survey
+  * Design it
+    * Let's aim to finish this by approximately 2022-12-20 during the meeting
+    * Remember to discuss and think about analysis at this meeting!!!!
+  * Implement it
+    * Technical implementation
+    * Disseminate survey
+      * To whom?
+      * UKRN can help
+      * JISC mailing lists
+      * Some ideas from previous meetings and current protocol
+      * Spend a day-ish thinking through how we can reach outside the open research bubble
+  * Plan analysis
+* The audience of the report could be imagined as someone like Alex for now
+* Align to success criteria and evaluation in the Octopus business case, including quantitative metrics which might get idea of what could be useful to investigate through the survey
+* We agreed we want to have shorter quicker survey
+* Look at MT's results so far as for the literature review, before our literature review sync meeting 2022-11-29T14:30Z
+
+### ACTION ITEMS
+
+* PY will meet with Mariia on 2022-11-29 to synchronise where we are on the literature review
+* PY will combine our current state of understanding (i.e. literature review + surveys) and compare with draft survey to identify and prioritise 
+* JT will meet with PY on 2022-12-06 to touch base
+* PY will revisit Octopus business case especially success criteria
+* PY will consider the listed communities the survey could be sent to
